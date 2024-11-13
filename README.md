@@ -31,3 +31,16 @@ Website ini adalah proyek sederhana untuk membantu Dewan Kerja Ranting Sidamulih
 1. Clone repositori ini ke dalam direktori lokal:
    ```bash
    git clone https://github.com/aleaengineer/project1.git
+
+**Kontribusi**
+Kami menyambut kontribusi dari siapa pun yang ingin membantu mengembangkan website ini lebih lanjut. Silakan membuat pull request atau membuka issue untuk diskusi lebih lanjut.
+
+**Lisensi**
+Proyek ini dilisensikan di bawah MIT License.
+
+**Kontak**
+Jika ada pertanyaan atau masukan, silakan hubungi kami di:
+
+Email: dkrsidamulih12@gmail.com
+Telepon: +62 812-2944-8933
+Alamat: Sekretariat Dewan Kerja Ranting Sidamulih, Pangandaran, Jawa Barat
